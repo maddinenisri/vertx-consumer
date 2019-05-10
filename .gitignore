@@ -1,0 +1,10 @@
+.idea/
+target/
+*.DS_Store
+*.iml
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+out/
